@@ -3,6 +3,16 @@ Boards and code for adding a pressure sensor to a BMW e46
 
 This project adds a pressure and engine tempature readout to a BMW e46. 
 
+# Desired install
+This is the goal of the project:
+[Final Install](images/final_install.png)
+
+The display reads out the current pressure from the installed pressure sensor, and reads \
+out the engine temperature read from the CAN bus.
+
+# Why read the temperature? 
+
+# Board design
 
 
 # Refernces:
