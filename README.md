@@ -1,4 +1,4 @@
-# e46_pressure_sensor
+# BMW e46 pressure sensor
 Boards and code for adding a pressure sensor to a BMW e46
 
 This project adds a pressure and engine tempature readout to a BMW e46. 
@@ -25,7 +25,7 @@ The PCB uses the following components:
 - [Inexpensive Amazon 3.3v relay](https://www.amazon.com/gp/product/B09P1DS8RN)
 - [Shielded wire to carry the I2C](https://www.mouser.com/ProductDetail/602-M4473-100-09)
 
-## Why a I2C pressure sensor? 
+## Why an I2C pressure sensor? 
 
 I was getting tired of dealing with analog output sensors that I was using in a different project.
 So, I bought the I2C digital output sensor. It turned out to be really easy to read from.
